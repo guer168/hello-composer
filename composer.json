@@ -1,0 +1,20 @@
+{
+    "name": "guer168/hello",
+    "description": "composer test",
+    "authors": [
+        {
+            "name": "guer168",
+            "email": "123456789@qq.com",
+            "homepage": "https://xxxxx"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "guer168\\hello\\": "src/"
+        }
+    }
+}
